@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p>SEO Debug</p>
+    <p>Dleysson é gay</p>
   </div>
 </template>
 
