@@ -9,9 +9,9 @@
       <Meta name="og:description" hid="og:description" content="Evenyx description" />
       <Meta name="og:url" hid="og:url" content="www.evenyx.com" />
       <Meta name="og:site_name" hid="og:site_name" content="Evenyx site name" />
-      <Meta name="og:image" hid="og:image" content="https://evenyx.s3.amazonaws.com/mailing/images/evenyx-branco.png" />
+      <Meta name="og:image" hid="og:image" content="https://evenyx.s3.amazonaws.com/uploads/100/4925/cIDxga5Vc7Z9GSnZs3cy0B3VcZxu0njqY9beWZ0t.jpg" />
       <Meta name="og:type" hid="og:type" content="website" />
-      <Meta name="twitter:card" hid="t-type" content="https://evenyx.s3.amazonaws.com/mailing/images/evenyx-branco.png" />
+      <Meta name="twitter:card" hid="t-type" content="https://evenyx.s3.amazonaws.com/uploads/100/4925/cIDxga5Vc7Z9GSnZs3cy0B3VcZxu0njqY9beWZ0t.jpg" />
     </Head>
   </div>
 </template>
@@ -25,7 +25,7 @@ useHead({
     {
       rel: 'icon',
       type: 'image/png',
-      href: 'https://evenyx.s3.amazonaws.com/mailing/images/evenyx-branco.png'
+      href: 'https://evenyx.s3.amazonaws.com/uploads/100/4925/cIDxga5Vc7Z9GSnZs3cy0B3VcZxu0njqY9beWZ0t.jpg'
     }
   ]
 })
